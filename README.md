@@ -1,7 +1,7 @@
 Product features:
 
 Kid found :
-1. Any kid who lost his way, can be taken to the nearest police station
+1. Any kid who lost their way, can be taken to the nearest police station
 2. Kid's photos are taken and uploaded into this system
 
 Kid missing:
